@@ -1,0 +1,22 @@
+{
+  "name": "domain_generator",
+  "version": "1.0.0",
+  "description": "generate domain names",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samirbenzada/DomainNameGenerator.git"
+  },
+  "author": "Samir Benzada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samirbenzada/DomainNameGenerator/issues"
+  },
+  "homepage": "https://github.com/samirbenzada/DomainNameGenerator#readme",
+  "dependencies": {
+    "python3": "0.0.1"
+  }
+}
